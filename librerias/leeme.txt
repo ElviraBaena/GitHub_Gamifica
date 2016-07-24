@@ -1,0 +1,4 @@
+
+cabecera.php y pie.php marcan el estilo y equivalen a la plantilla de las páginas.
+
+connection.php contiene la cadena de conexión con la base de datos, así como las funciones comunes de comunicacion con la base de datos.
